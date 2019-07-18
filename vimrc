@@ -69,6 +69,8 @@ set clipboard=unnamed
 
 Plugin 'dracula/vim'
 
+set scrolloff=5    " let 5 lines before/after cursor during scroll
+
 "color dracula
 
 " set tabs to have 4 spaces
